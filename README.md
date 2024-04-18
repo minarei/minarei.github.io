@@ -1,0 +1,1 @@
+Este repositório é dedicado a um projeto que realizei durante meus estudos de HTML5 e CSS3, onde o principal objetivo era desenvolver um site relacionado ao Android e como surgiu o seu famoso mascote.
